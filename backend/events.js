@@ -18,7 +18,7 @@ module.exports = [
     },
 {
       id: 4,
-      title: 'Docker Bangalore',
+      title: 'Docker Honkkong',
       date: '2017-11-13'
     }
 
